@@ -26,4 +26,4 @@ Using for the first time needs to do a little configuration. In the current dire
 
 2. Post - only supports sending pure text / 发送 - 目前仅支持发送纯文本，方法如下
 
- `ruby ruguofan.rb post -p "Hello World"`，will post a status "Hello World" / 发送消息“Hello World”
+ `ruby ruguofan.rb post -m "Hello World"`，will post a status "Hello World" / 发送消息“Hello World”
