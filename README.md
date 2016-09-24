@@ -18,7 +18,7 @@ Using for the first time needs to do a little configuration. In the current dire
 }
 ```
 
-1. Read - only supports reading homeline / 阅读 - 目前仅支持阅读自己的TL，方法如下
+1. Read - only supports reading home timeline / 阅读 - 目前仅支持阅读自己的TL，方法如下
 
  `ruby ruguofan.rb read`，will list the most recent 10 messages by default / 默认列出最近10条状态
 
